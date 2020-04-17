@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 Install latest nodejs-12.14.1
 
-### `nom install`
+### `npm install`
 
 ### `npm start`
 
